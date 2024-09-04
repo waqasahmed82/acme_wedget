@@ -31,7 +31,7 @@ This project implements a sales system for Acme Widget Co using PHP. It supports
 ## Testing
 
 Run the unit tests to validate the basket functionality.
- ```
+ ```bash
  vendor/bin/phpunit --configuration phpunit.xml
 
 ## Code Quality
